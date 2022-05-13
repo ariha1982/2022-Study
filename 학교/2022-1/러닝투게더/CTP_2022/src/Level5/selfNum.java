@@ -11,3 +11,4 @@ public class selfNum {
         return a + a/10 + a%10;
     }
 }
+//커밋 메세지 수정

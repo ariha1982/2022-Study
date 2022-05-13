@@ -11,3 +11,4 @@ public class wordCount {
         System.out.println(arr.length);
     }
 }
+//커밋 메세지 수정

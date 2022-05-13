@@ -10,3 +10,4 @@ public class ascii {
         System.out.println(a);
     }
 }
+//커밋 메세지 수정

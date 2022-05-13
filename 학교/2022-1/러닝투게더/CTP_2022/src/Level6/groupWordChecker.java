@@ -38,3 +38,4 @@ public class groupWordChecker {
         return true;
     }
 }
+//커밋 메세지 수정

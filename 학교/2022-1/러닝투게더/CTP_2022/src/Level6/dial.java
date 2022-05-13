@@ -38,3 +38,4 @@ public class dial {
         System.out.println(sum);
     }
 }
+//커밋 메세지 수정

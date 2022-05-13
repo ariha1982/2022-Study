@@ -29,3 +29,4 @@ public class maxMin {
         br.close();
     }
 }
+//커밋 메세지 수정
